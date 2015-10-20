@@ -46,6 +46,7 @@ Temporary Items
 .svn
 .svn/wc.db
 .svn/wc.db
+/target/
 /.settings/
 /.classpath
 /.project
